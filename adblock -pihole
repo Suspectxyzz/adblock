@@ -2,7 +2,7 @@
 # Format: 0.0.0.0 domain.com
 # Generated: 2026-05-22
 
-
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ams.jftechws.com
 0.0.0.0 gamesapps-assets.ghub.logitechg.com
 0.0.0.0 mtalk.google.com
@@ -52,10 +52,27 @@
 0.0.0.0 ads.pinterest.com
 0.0.0.0 flashtalking.com
 0.0.0.0 ccrig.com
+0.0.0.0 fakestoreapi.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 jsonplaceholder.typicode.com
+0.0.0.0 ntp-sz.chl.la
+0.0.0.0 ntp.gwadar.cn
+0.0.0.0 boss.jftechsoft.com.b0b1fafb.cdnhwcxcy07.com
+0.0.0.0 hcdnw120.vip.global.cdnhwctnm107.com
+0.0.0.0 a80ca1c1514a1301d.dualstack.awsglobalaccelerator.com
+0.0.0.0 caps.xmcsrv.net
+0.0.0.0 app-support.jftech.com
+0.0.0.0 pub-status.secu100.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 oss-eu-nor-05.oss-eu-central-1.aliyuncs.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 ads-api.tiktok.com
+0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 skadsdkless.appsflyersdk.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 app-ads-services.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 ads.tiktok.com
