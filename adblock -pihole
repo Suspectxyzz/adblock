@@ -1,6 +1,6 @@
 # Blocklist
 # Format: 0.0.0.0 domain.com
-# Generated: 2026-05-22
+# Generated: 2026-06-22
 
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ams.jftechws.com
@@ -37,6 +37,8 @@
 0.0.0.0 ogs.google.com
 0.0.0.0 peoplestack-pa.clients6.google.com
 0.0.0.0 addons-pa.clients6.google.com
+0.0.0.0 cdn.fuseplatform.net
+0.0.0.0 fuseplatform.net
 0.0.0.0 imgix.net
 0.0.0.0 davidaaronbeaty.com
 0.0.0.0 boss-api.jftechsoft.com
