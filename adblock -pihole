@@ -31,6 +31,12 @@
 0.0.0.0 intercom.io
 0.0.0.0 gtranslate.net
 0.0.0.0 ibyteimg.com
+0.0.0.0 ogads-pa.clients6.google.com
+0.0.0.0 signaler-pa.clients6.google.com
+0.0.0.0 waa-pa.clients6.google.com
+0.0.0.0 ogs.google.com
+0.0.0.0 peoplestack-pa.clients6.google.com
+0.0.0.0 addons-pa.clients6.google.com
 0.0.0.0 imgix.net
 0.0.0.0 davidaaronbeaty.com
 0.0.0.0 boss-api.jftechsoft.com
