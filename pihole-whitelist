@@ -8,6 +8,10 @@ abs.twimg.com
 adguard.com
 adguardteam.github.io
 croxyproxy.com
+www.croxyproxy.com
+googletagmanager.com
+googleadservices.com
+waa-pa.clients6.google.com
 admin.docker.com
 afkarena.lilith.com
 aid-frontend.prod.atl-paas.net
@@ -714,7 +718,9 @@ yougame.biz
 youtu.be
 youtube-dl.org
 youtube-nocookie.com
+telemetry.visualstudio.microsoft.com
 youtube-ui.l.google.com
+tiktokcdn.com
 youtube.com
 youtube.imrworldwide.com
 youtubei.googleapis.com
@@ -731,3 +737,5 @@ ytimg.com
 ytstatic.l.google.com
 yubico.com
 yuntrack.com
+tiktokpangle.us
+tiktokv.eu
