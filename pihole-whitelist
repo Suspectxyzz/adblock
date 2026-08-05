@@ -1,4 +1,6 @@
-# googlesyndication.com
+googlesyndication.com
+googletagmanager.com
+googleadservices.com
 17track.net
 a.nel.cloudflare.com
 a1449.dscg2.akamai.net
@@ -9,8 +11,6 @@ adguard.com
 adguardteam.github.io
 croxyproxy.com
 www.croxyproxy.com
-googletagmanager.com
-googleadservices.com
 meowless.club
 lry.ro
 waa-pa.clients6.google.com
@@ -67,6 +67,8 @@ api.mapbox.com
 api.nuget.org
 checkout.stripe.com
 stripe.com
+r.stripe.com
+js.stripe.com
 api.scout.docker.com
 api.smoot.apple.com
 api.techniknews.net
