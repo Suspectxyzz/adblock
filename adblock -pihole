@@ -1,6 +1,6 @@
 # Blocklist
 # Format: 0.0.0.0 domain.com
-# Generated: 2026-06-22
+# Generated: 2026-07-18
 
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ams.jftechws.com
@@ -31,6 +31,7 @@
 0.0.0.0 intercom.io
 0.0.0.0 gtranslate.net
 0.0.0.0 ibyteimg.com
+0.0.0.0 aikf.eu.cc
 0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 signaler-pa.clients6.google.com
 0.0.0.0 waa-pa.clients6.google.com
