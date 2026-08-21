@@ -1,6 +1,6 @@
 # Blocklist
 # Format: 0.0.0.0 domain.com
-# Generated: 2026-07-18
+# Generated: 2026-08-21
 
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ams.jftechws.com
@@ -226,6 +226,9 @@
 0.0.0.0 api-app.wo-cloud.com
 0.0.0.0 api.bugsnag.com
 0.0.0.0 rncdn7.com
+0.0.0.0 ngfts.lge.com
+0.0.0.0 t.pepperjamnetwork.com
+0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 cdn77.org
 0.0.0.0 app.bugsnag.com
 0.0.0.0 app.getsentry.com
