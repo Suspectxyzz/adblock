@@ -1,6 +1,6 @@
 # Blocklist
 # Format: 0.0.0.0 domain.com
-# Generated: 2026-08-21
+# Generated: 2026-08-28
 
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ams.jftechws.com
@@ -314,3 +314,9 @@
 0.0.0.0 publicwin.ro
 0.0.0.0 efbet.ro
 0.0.0.0 powerbet.ro
+0.0.0.0 ads.blitz-cdn-plain.blitz.gg
+0.0.0.0 ads.blitz-desktop.blitz.gg
+0.0.0.0 ads.blitz-cdn-plain.blitz.gg
+0.0.0.0 ads.blitz.gg
+0.0.0.0 upload.blitz-cdn.blitz.gg
+0.0.0.0 ads-test.blitz.gg
