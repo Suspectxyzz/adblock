@@ -1,6 +1,6 @@
 # Blocklist
 # Format: 0.0.0.0 domain.com
-# Generated: 2026-08-28
+# Generated: 2026-10-13
 
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ams.jftechws.com
@@ -82,18 +82,28 @@
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 assets.mailerlite.com
+0.0.0.0 click.mailerlite.com
+0.0.0.0 open.convertkit.com
+0.0.0.0 app.usercentrics.eu
+0.0.0.0 api.usercentrics.eu
 0.0.0.0 app-ads-services.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads.snapchat.com
 0.0.0.0 googleadservices.com
+0.0.0.0 cdn.segment.com
+0.0.0.0 api2.amplitude.com
 0.0.0.0 gvt.com
 0.0.0.0 gvt2.com
 0.0.0.0 gvt3.com
 0.0.0.0 eye4.cn
 0.0.0.0 eye.cn
 0.0.0.0 capcutapi.com
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cdn.onetrust.com
+0.0.0.0 aggregator.service.usercentrics.eu
 0.0.0.0 boss-h5.jftechsoft.com
 0.0.0.0 cdn.dcloud.net.cn
 0.0.0.0 hcdnw120.vip.global.ipv6.cdnhwctnm107.com
